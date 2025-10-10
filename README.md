@@ -45,7 +45,7 @@ The dataset contains comprehensive customer information, including:
 - **Methods:**  
   - Data Processing: Label Encoding, SMOTE, Train-Test Split  
   - Modeling: Logistic Regression, Random Forest, XGBoost  
-  - Evaluation: Confusion Matrix, Classification Report, ROC Curve
+  - Evaluation: Confusion Matrix, Classification Report,
 
 ---
 
