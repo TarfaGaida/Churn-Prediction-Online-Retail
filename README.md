@@ -40,7 +40,7 @@ The dataset contains comprehensive customer information, including:
 - **Tools & Libraries:**  
   - pandas, numpy (data processing)  
   - matplotlib, seaborn (visualization)  
-  - scikit-learn, xgboost (machine learning)
+  - scikit-learn, Machine learning
 - **Development Environment:** Jupyter Notebook
 - **Methods:**  
   - Data Processing: Label Encoding, SMOTE, Train-Test Split  
