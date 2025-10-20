@@ -64,31 +64,26 @@ Key business questions addressed:
 ## 🚀 Results & Business Insights
 
 - **Model Performance:**  
-  Each model's strengths and weaknesses are benchmarked using relevant classification metrics, ensuring the best fit for real-world application.
+🔍Selected Random Forest as the optimal model, achieving an impressive recall of 84.7%.
+
+
+- **Key Insight:**  
+Churned customers exhibited common traits: low purchase frequency, extended inactivity, and lack of loyalty program membership.
+Effective retention strategies should include targeted promotions
+and enhanced loyalty programs.
+
 - **Visualizations:**  
   The analysis is supported with insightful charts, such as churn distribution, feature importance, and customer segment analyses.
 - **Recommendations:**  
   Practical strategies are suggested for targeting at-risk customers and reducing churn, empowering businesses to make data-driven decisions.
 
+- **Impact:**  
+🔍 Enabled early churn detection
+💡 Guided data-driven customer retention initiatives
+📈 Potential to reduce churn by up to 25%
 ---
 
-## 💡 How to Run
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/TarfaGaida/Final-Project-_Churn-Anlysis.git
-   ```
-
-2. **Install dependencies:**  
-   Open in [Google Colab](https://colab.research.google.com/) for easy use, or run locally in Jupyter Notebook:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn xgboost
-   ```
-
-3. **Launch the notebook:**  
-   Explore the workflow, from data loading and EDA to model building and evaluation.
-
----
 
 ## 📬 Contact
 
