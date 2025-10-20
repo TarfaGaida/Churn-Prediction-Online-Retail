@@ -78,11 +78,10 @@ and enhanced loyalty programs.
   Practical strategies are suggested for targeting at-risk customers and reducing churn, empowering businesses to make data-driven decisions.
 
 - **Impact:**  
-🔍 Enabled early churn detection
+  -🔍 Enabled early churn detection
+  -💡 Guided data-driven customer retention initiatives
+  -📈 Potential to reduce churn by up to 25%
 
-💡 Guided data-driven customer retention initiatives
-
-📈 Potential to reduce churn by up to 25%
 ---
 
 
