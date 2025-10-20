@@ -79,7 +79,9 @@ and enhanced loyalty programs.
 
 - **Impact:**  
 🔍 Enabled early churn detection
+
 💡 Guided data-driven customer retention initiatives
+
 📈 Potential to reduce churn by up to 25%
 ---
 
